@@ -4,6 +4,7 @@
 The Casting Agency is a company that is responsible for creating movies and managing and assigning actors to those movies. 
 
 ## Getting Started
+the application hosted here: https://bayan-capstone.herokuapp.com/
 
 ### Installing Dependencies
 
