@@ -14,9 +14,6 @@ pip install -r requirements.txt
 ```
 
 
-### Virtual Enviornment
-
-
 ### Running the server
 
 within the root directory of the project, run the server:
